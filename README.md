@@ -12,3 +12,5 @@
 6) CircularBuffer
 
 7) Allocator
+
+8) Weather forecast

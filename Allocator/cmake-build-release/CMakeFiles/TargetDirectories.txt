@@ -1,3 +1,0 @@
-/Users/danilkasirin/projects_C/Programming/labwork-9-danilkashirin/cmake-build-release/CMakeFiles/labwork-9-danilkashirin.dir
-/Users/danilkasirin/projects_C/Programming/labwork-9-danilkashirin/cmake-build-release/CMakeFiles/edit_cache.dir
-/Users/danilkasirin/projects_C/Programming/labwork-9-danilkashirin/cmake-build-release/CMakeFiles/rebuild_cache.dir

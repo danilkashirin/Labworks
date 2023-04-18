@@ -1,3 +1,0 @@
-C:/projects_C/lab_3_BoP/labwork-3-danilkashirin/cmake-build-debug/CMakeFiles/labwork-3-danilkashirin.dir
-C:/projects_C/lab_3_BoP/labwork-3-danilkashirin/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/projects_C/lab_3_BoP/labwork-3-danilkashirin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-# ninja log v5
-1	42	1676505063079866200	build.ninja	c063c789bcb70b84
-5	422	1671033459623524210	CMakeFiles/labwork-4-danilkashirin.dir/lib/parser.cpp.o	8cf64f1b1eea87d7
-550	672	1671040995342583593	labwork-4-danilkashirin	f1e3eadbae8785cc
-3	269	1669068489233361778	CMakeFiles/labwork-4-danilkashirin.dir/main.cpp.o	a13002bd9bb57c51
-2	596	1669069221624395006	CMakeFiles/labwork-4-danilkashirin.dir/lib/archiver_voids.cpp.o	3011933405ffc004
-3	550	1671040995217517383	CMakeFiles/labwork-4-danilkashirin.dir/lib/hamming.cpp.o	353180d6ab5db507

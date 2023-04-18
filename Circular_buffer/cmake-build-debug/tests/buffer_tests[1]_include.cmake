@@ -1,5 +1,0 @@
-if(EXISTS "/Users/danilkasirin/projects_C/Programming/labwork-8-danilkashirin/cmake-build-debug/tests/buffer_tests[1]_tests.cmake")
-  include("/Users/danilkasirin/projects_C/Programming/labwork-8-danilkashirin/cmake-build-debug/tests/buffer_tests[1]_tests.cmake")
-else()
-  add_test(buffer_tests_NOT_BUILT buffer_tests_NOT_BUILT)
-endif()

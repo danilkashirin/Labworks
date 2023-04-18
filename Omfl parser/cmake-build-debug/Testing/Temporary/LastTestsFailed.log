@@ -1,0 +1,37 @@
+2:ParserTestSuite.IntTest
+3:ParserTestSuite.InvalidIntTest
+4:ParserTestSuite.FloatTest
+5:ParserTestSuite.InvalidFloatTest
+6:ParserTestSuite.StringTest
+7:ParserTestSuite.InvalidStringTest
+8:ParserTestSuite.ArrayTest
+9:ParserTestSuite.DiffTypesArrayTest
+10:ParserTestSuite.CommentsTest
+11:ParserTestSuite.SectionTest
+12:ParserTestSuite.MultiSectionTest
+13:ParserTestSuite.GetSectionTest
+15:KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+16:KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "
+17:KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""
+18:KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""
+19:KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""
+20:KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""
+21:ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+22:IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"
+23:IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"
+24:IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"
+25:FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"
+26:FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"
+27:FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"
+28:StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""
+29:StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""
+30:StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""
+31:StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""
+32:StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""
+33:BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"
+34:BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"
+35:ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"
+36:ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"
+37:ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"
+38:ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"
+42:CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"

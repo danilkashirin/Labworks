@@ -1,0 +1,20 @@
+ArgParserTestSuite.EmptyTest 116 2.90754e-05
+ArgParserTestSuite.StringTest 94 2.85975e-05
+ArgParserTestSuite.ShortNameTest 94 2.74894e-05
+ArgParserTestSuite.DefaultTest 102 2.62373e-05
+ArgParserTestSuite.NoDefaultTest 56 7.77961e-05
+ArgParserTestSuite.StoreValueTest 35 0.000138576
+ArgParserTestSuite.MultiStringTest 94 5.39384e-05
+ArgParserTestSuite.IntTest 33 0.000114261
+ArgParserTestSuite.MultiValueTest 35 0.000100674
+ArgParserTestSuite.MinCountMultiValueTest 115 2.41384e-05
+ArgParserTestSuite.FlagTest 95 2.79912e-05
+ArgParserTestSuite.FlagsTest 58 5.13793e-05
+ArgParserTestSuite.PositionalArgTest 35 7.51369e-05
+ArgParserTestSuite.HelpTest 117 2.17614e-05
+ArgParserTestSuite.HelpStringTest 116 2.60366e-05
+SuitTest.SummaTets 3 0.00155304
+SuitTest.DifferenceTets 3 0.000813833
+SuitTest.MultiTest 3 0.000967361
+SuitTest.DivisonTets 3 0.000809625
+---

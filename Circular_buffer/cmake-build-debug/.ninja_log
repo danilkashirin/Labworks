@@ -1,0 +1,16 @@
+# ninja log v5
+1257	1477	1679906861844703557	tests/buffer_tests[1]_tests.cmake	8aaf12e329d9ac82
+1	1688	1679299309334027338	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	ae6a6ddbf8bb72c2
+1257	1477	1679906861844703557	/Users/danilkasirin/projects_C/Programming/labwork-8-danilkashirin/cmake-build-debug/tests/buffer_tests[1]_tests.cmake	8aaf12e329d9ac82
+2402	2422	1679299310076218000	lib/libgmock_main.a	3531db8b0538cc87
+2334	2376	1679299310029615000	lib/libgtest.a	21fa1f62a564646f
+1257	1477	1679906861844703557	tests/buffer_tests	8aaf12e329d9ac82
+7	722	1679906861085634818	CMakeFiles/labwork-8-danilkashirin.dir/main.cpp.o	7a393780fe3398d6
+2	2334	1679299309979906233	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	5c59a2fb4dd1132e
+582	1473	1679299309119728693	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	dda442c7f2589202
+9	1237	1679906861600422086	tests/CMakeFiles/buffer_tests.dir/BufferExtTests.cpp.o	5c0d8f2e30d8ecc1
+2376	2402	1679299310056147000	lib/libgmock.a	93400e096a72137f
+1	962	1679299308606700787	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	55078ed0ec6769b0
+2376	2395	1679299310049162000	lib/libgtest_main.a	1a22b72292c1559
+732	889	1679906861256310845	labwork-8-danilkashirin	386ffde992ab93da
+8	1187	1679906861549737959	tests/CMakeFiles/buffer_tests.dir/BufferTests.cpp.o	2d281eb65e373711

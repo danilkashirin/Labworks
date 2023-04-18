@@ -1,0 +1,3 @@
+count_pools value
+default_pool {value1, value2}
+another_pools {value1, value2} {value1, value2} {value1, value2} {value1, value2}

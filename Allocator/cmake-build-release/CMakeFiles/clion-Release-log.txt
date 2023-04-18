@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/danilkasirin/projects_C/Programming/labwork-9-danilkashirin -B /Users/danilkasirin/projects_C/Programming/labwork-9-danilkashirin/cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/danilkasirin/projects_C/Programming/labwork-9-danilkashirin/cmake-build-release

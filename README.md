@@ -1,4 +1,4 @@
-## Programming \; Labworks
+## Programming $\;$ Labworks
 1) Sandpile
 
 2) Archiver

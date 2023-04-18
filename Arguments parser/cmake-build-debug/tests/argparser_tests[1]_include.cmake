@@ -1,5 +1,0 @@
-if(EXISTS "/Users/danilkasirin/projects_C/Programming/labwork-5-danilkashirin/cmake-build-debug/tests/argparser_tests[1]_tests.cmake")
-  include("/Users/danilkasirin/projects_C/Programming/labwork-5-danilkashirin/cmake-build-debug/tests/argparser_tests[1]_tests.cmake")
-else()
-  add_test(argparser_tests_NOT_BUILT argparser_tests_NOT_BUILT)
-endif()

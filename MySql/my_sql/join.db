@@ -1,0 +1,26 @@
+CREATE TABLE Books (
+    author VARCHAR,
+    book_name VARCHAR,
+    available BOOL,
+    price DOUBLE,
+    id INT,
+);
+
+CREATE TABLE Characters (
+    character VARCHAR,
+    author_id INT,
+    id INT PRIMARY KEY,
+);
+
+INSERT INTO Books(author, book_name, available, price, id, ) VALUES ('Bulgakov', 'M and M', 1, 100.2, 1, );
+INSERT INTO Books(author, book_name, available, price, id, ) VALUES ('Tolstoy', 'War and Peace', NULL, NULL, 2, );
+INSERT INTO Books(author, book_name, available, price, id, ) VALUES ('Pushkin', NULL, NULL, 50, 3, );
+
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Master', 1, 1, );
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Voland', 1, 2, );
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Azazelo', 1, 3, );
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Bezuhov', 2, 4, );
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Bolkonskiy', 2, 5, );
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Rostova', 2, 6, );
+INSERT INTO Characters(character, author_id, id, ) VALUES ('Karenina', 4, 7, );
+

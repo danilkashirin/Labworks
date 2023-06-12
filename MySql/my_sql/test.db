@@ -1,0 +1,12 @@
+CREATE TABLE Books (
+    author VARCHAR,
+    book_name VARCHAR,
+    available BOOL,
+    price DOUBLE,
+    id INT,
+);
+
+INSERT INTO Books(author, book_name, available, price, id, ) VALUES ('Bulgakov', 'M and M', 1, 100.2, 1, );
+INSERT INTO Books(author, book_name, available, price, id, ) VALUES ('Tolstoy', 'War and Peace', NULL, NULL, 2, );
+INSERT INTO Books(author, book_name, available, price, id, ) VALUES ('Pushkin', NULL, NULL, 50, 3, );
+
